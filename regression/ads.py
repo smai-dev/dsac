@@ -1,9 +1,3 @@
-"""
-Created on Wednesday Oct 16 11:42:55 2024
-
-@author: aurelia power
-"""
-
 import re, pandas as pd, numpy as np, matplotlib.pyplot as plt
 from collections import Counter
 import seaborn as sns 
