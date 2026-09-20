@@ -1,8 +1,3 @@
-"""
-
-@author: aurelia power
-"""
-
 import re, pandas as pd, numpy as np, matplotlib.pyplot as plt, seaborn as sns
 import nltk
 from collections import Counter 
