@@ -1,0 +1,81 @@
+﻿topic,topic_label,topic_prototype,policy_area,is_coherent,artifact_topic,merge_hint,keywords,slm_raw_response
+0,Artificial Intelligence Impact on Educational Practices,The rapid adoption of AI in education has led to significant changes in how students learn and teachers teach.,education,True,False,"Consider merging with topics related to AI in education, AI ethics, and digital literacy.","submission, public, research, recommendation, people, sector, decision, open, achievement, investment, innovation, unesco","```json
+{
+  ""label"": ""Artificial Intelligence Impact on Educational Practices"",
+  ""prototype"": ""The rapid adoption of AI in education has led to significant changes in how students learn and teachers teach."",
+  ""policy_area"": ""education"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Consider merging with topics related to AI in education, AI ethics, and digital literacy.""
+}
+```"
+1,AI Teacher Assistant Oversight and Curriculum Alignment,International guidelines recommend clear oversight mechanisms and alignment with existing curricula to ensure AI teacher assistants enhance rather than detract from educational outcomes.,AI Teacher Assistants,True,False,Consider merging with 'AI Teacher Assistant Privacy and Student Rights',"staff, guidance, principle, privacy, responsible, integrity, ethical, academic, educator, step, review, literacy","```json
+{
+  ""label"": ""AI Teacher Assistant Oversight and Curriculum Alignment"",
+  ""prototype"": ""International guidelines recommend clear oversight mechanisms and alignment with existing curricula to ensure AI teacher assistants enhance rather than detract from educational outcomes."",
+  ""policy_area"": ""AI Teacher Assistants"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Consider merging with 'AI Teacher Assistant Privacy and Student Rights'""
+}
+```"
+2,AI-Powered Learning Platforms and Student Privacy,"AI-powered learning platforms enhance educational outcomes through personalized feedback and resources, but they raise concerns about student privacy.",Student Privacy,True,False,Merge with 'Data Privacy in Educational Technology' if focusing solely on student privacy.,"write, language, generate, chatgpt, task, help, english, content, think, time, prompt, class","```json
+{
+  ""label"": ""AI-Powered Learning Platforms and Student Privacy"",
+  ""prototype"": ""AI-powered learning platforms enhance educational outcomes through personalized feedback and resources, but they raise concerns about student privacy."",
+  ""policy_area"": ""Student Privacy"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Merge with 'Data Privacy in Educational Technology' if focusing solely on student privacy.""
+}
+```"
+3,AI in School Curriculum and Teacher Training,The integration of artificial intelligence into educational curricula and teacher training programs.,education,True,False,"Consider merging with topics related to AI in education, teacher training, and curriculum development.","usage, outils, cadre, données, pédagogique, numérique, pédagogiques, enjeux, établissements, utilisation, déploiement, recherche","```json
+{
+  ""label"": ""AI in School Curriculum and Teacher Training"",
+  ""prototype"": ""The integration of artificial intelligence into educational curricula and teacher training programs."",
+  ""policy_area"": ""education"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Consider merging with topics related to AI in education, teacher training, and curriculum development.""
+}
+```"
+4,AI Competency Framework Design and Ethical Application,The AI Competency Framework outlines twelve competency blocks based on ethical considerations.,AI Competency Framework,True,False,,"competency, design, knowledge, progression, skill, ethical, ethic, expect, social, aspect, mindset, apply","```json
+{
+  ""label"": ""AI Competency Framework Design and Ethical Application"",
+  ""prototype"": ""The AI Competency Framework outlines twelve competency blocks based on ethical considerations."",
+  ""policy_area"": ""AI Competency Framework"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": """"
+}
+```"
+5,AI Child Protection and Digital Education Oversight,International guidelines recommend child-focused AI policies and enhanced parental control over online activities.,AI Child Protection and Digital Education Oversight,True,False,Merge into broader AI governance and education oversight themes.,"child, sexual, council, recommender, act, abuse, convention, protection, regulation, parent, europe, safety","```json
+{
+  ""label"": ""AI Child Protection and Digital Education Oversight"",
+  ""prototype"": ""International guidelines recommend child-focused AI policies and enhanced parental control over online activities."",
+  ""policy_area"": ""AI Child Protection and Digital Education Oversight"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Merge into broader AI governance and education oversight themes.""
+}
+```"
+6,AI-Powered Digital Learning Strategies for Youth,AI-driven strategies enhance personalized learning experiences for young people.,digital learning,True,False,Merge with existing policies focusing on AI in education.,"strategy, learner, progress, pillar, competence, infrastructure, leader, skill, procurement, assessment, professional, pdst","```json
+{
+  ""label"": ""AI-Powered Digital Learning Strategies for Youth"",
+  ""prototype"": ""AI-driven strategies enhance personalized learning experiences for young people."",
+  ""policy_area"": ""digital learning"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Merge with existing policies focusing on AI in education.""
+}
+```"
+7,AI Offloading and Metacognitive Skills in Education,Strategies to enhance learners' critical thinking and metacognitive skills through AI deployment.,Education,True,False,Focus on balancing AI-enhanced learning with metacognitive development.,"cognitive, load, offload, metacognitive, memory, critical, paradox, performance, study, thinking, detrimental, learner","```json
+{
+  ""label"": ""AI Offloading and Metacognitive Skills in Education"",
+  ""prototype"": ""Strategies to enhance learners' critical thinking and metacognitive skills through AI deployment."",
+  ""policy_area"": ""Education"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Focus on balancing AI-enhanced learning with metacognitive development.""
+}
+```"

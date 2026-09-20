@@ -1,0 +1,61 @@
+﻿topic,topic_label,topic_prototype,policy_area,is_coherent,artifact_topic,merge_hint,keywords,slm_raw_response
+0,AI-driven School Curriculum Development Oversight,The Australian government is exploring ways to ensure AI models used in schools are safe and effective.,education,True,False,Consider merging with topics related to AI ethics in education.,"task, help, generate, feedback, concern, prompt, leader, content, language, large, year, survey","```json
+{
+  ""label"": ""AI-driven School Curriculum Development Oversight"",
+  ""prototype"": ""The Australian government is exploring ways to ensure AI models used in schools are safe and effective."",
+  ""policy_area"": ""education"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Consider merging with topics related to AI ethics in education.""
+}
+```"
+1,AI Offloading and Metacognition in Educational Settings,"The implementation of AI in education poses challenges related to cognitive overload and offloading, which require tailored strategies to enhance critical thinking and learner engagement.",education,True,False,,"cognitive, load, offload, metacognitive, study, critical, learner, performance, knowledge, thinking, memory, effect","```json
+{
+  ""label"": ""AI Offloading and Metacognition in Educational Settings"",
+  ""prototype"": ""The implementation of AI in education poses challenges related to cognitive overload and offloading, which require tailored strategies to enhance critical thinking and learner engagement."",
+  ""policy_area"": ""education"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": """"
+}
+```"
+2,Staff Guidelines for Academic Integrity in Generative AI Tools,Developing guidelines for managing academic integrity when using generative AI tools in schools.,Academic Integrity,True,False,Merge with other related topics focusing on AI ethics and educational practices.,"staff, tafe, privacy, assessment, responsible, academic, guideline, integrity, security, personal, procedure, college","```json
+{
+  ""label"": ""Staff Guidelines for Academic Integrity in Generative AI Tools"",
+  ""prototype"": ""Developing guidelines for managing academic integrity when using generative AI tools in schools."",
+  ""policy_area"": ""Academic Integrity"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Merge with other related topics focusing on AI ethics and educational practices.""
+}
+```"
+3,AI in Education: Principles and Ethical Guidelines,"The Australian government's approach to integrating AI into education involves principles of transparency, fairness, and ethical considerations.",education,True,False,Merge with existing policies addressing AI in education.,"principle, transparency, fairness, wellbeing, child, accountability, guidance, ethical, teach, privacy, unesco, design","```json
+{
+  ""label"": ""AI in Education: Principles and Ethical Guidelines"",
+  ""prototype"": ""The Australian government's approach to integrating AI into education involves principles of transparency, fairness, and ethical considerations."",
+  ""policy_area"": ""education"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Merge with existing policies addressing AI in education.""
+}
+```"
+4,AI Governance and Educational Oversight,The parliamentary committee's inquiry into AI in education led to calls for robust policies and guidelines to ensure responsible use.,education,True,False,Consider merging with existing topics related to educational governance and AI.,"submission, recommendation, inquiry, tension, evidence, analysis, body, public, university, group, value, theme","```json
+{
+  ""label"": ""AI Governance and Educational Oversight"",
+  ""prototype"": ""The parliamentary committee's inquiry into AI in education led to calls for robust policies and guidelines to ensure responsible use."",
+  ""policy_area"": ""education"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Consider merging with existing topics related to educational governance and AI.""
+}
+```"
+5,Australian School AI Curriculum Framework,Developing a comprehensive AI ethics curriculum for Australian schools.,school AI governance,True,False,Consider integrating AI principles into existing curricula.,"principle, framework, voluntary, industry, sector, horizon, measure, set, curriculum, time, enforcement, action","```json
+{
+  ""label"": ""Australian School AI Curriculum Framework"",
+  ""prototype"": ""Developing a comprehensive AI ethics curriculum for Australian schools."",
+  ""policy_area"": ""school AI governance"",
+  ""is_coherent"": true,
+  ""artifact_topic"": false,
+  ""merge_hint"": ""Consider integrating AI principles into existing curricula.""
+}
+```"
