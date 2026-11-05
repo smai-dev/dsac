@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+feature-engine
+missingno
+plotly
+ipykernel
+jupyter
+mlxtend
+imbalanced-learn
+kennard-stone

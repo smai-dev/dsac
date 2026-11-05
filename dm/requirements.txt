@@ -1,0 +1,15 @@
+# Core notebook environment
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+imbalanced-learn
+feature-engine
+xgboost
+plotly
+kaleido
+statsmodels
+ipykernel
+notebook
